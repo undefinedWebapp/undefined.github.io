@@ -203,6 +203,16 @@ a {
   background-color: #eff0f1;
   border: 0; }
 
+.main-content-left {
+   float:left;width:30%;
+}
+.main-content-right {
+  float:right;width:60%;height:198px;
+}
+.main-bottom {
+  height:100px;margin-top:200px;
+}
+
 @media screen and (min-width: 64em) {
   .main-content {
     max-width: 64rem;
